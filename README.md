@@ -1,7 +1,9 @@
 # Ruby on Rails Tutorial: sample application
 
-This is the refreshing new approach to boring coding tutorials.
-[*Ruby on Rails Tutorial:
+This is a refreshing new approach to boring coding tutorials.
+
+
+## Ruby on Rails Tutorial:
 
 
 All credit goes to:
